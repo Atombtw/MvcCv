@@ -1,0 +1,19 @@
+﻿@using MvcCv.Models.Entity
+@model List<Tbl_Egitimlerim>
+<section class="resume-section" id="education">
+    <div class="resume-section-content">
+        <h2 class="mb-5">Eğitim Hayatım</h2>
+        @foreach (var item in Model)
+        {
+               <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                   <div class="flex-grow-1">
+                       <h3 class="mb-0">@item.Baslik</h3>
+                       <div class="subheading mb-3">@item.AltBaslik1</div>
+                       <div>@item.AltBaslik2</div>
+                       <p>GNO: @item.GNO</p>
+                   </div>
+                   <div class="flex-shrink-0"><span class="text-primary">@item.Tarih</span></div>
+               </div>     
+        }
+    </div>
+</section>

@@ -1,0 +1,12 @@
+﻿@using MvcCv.Models.Entity
+@model List<Tbl_Hobilerim>
+<section class="resume-section" id="interests">
+    <div class="resume-section-content">
+        <h2 class="mb-5">Hobilerim</h2>
+        @foreach (var item in Model)
+        {
+            <p>@item.Aciklama1</p>
+            <p>@item.Aciklama2</p>
+        }
+    </div>
+</section>
