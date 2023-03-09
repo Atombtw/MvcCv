@@ -1,4 +1,4 @@
-#Genel Bakış
+# Genel Bakış
 
 Bir kişinin 
     -Fotoğrafını, 
@@ -11,7 +11,7 @@ Bir kişinin
     -Sosyal medya sayfalarınızı
  Dinamik bir şekilde hazırlıyabileceği bir CV sitesi
  
- #Yapabilecekleriniz
+ # Yapabilecekleriniz
  
  Admin sayfasına erişebileceğiniz Login sayfası mevcut
  Admin sayfasında ise yapabileceğiniz işlemler
