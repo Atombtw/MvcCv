@@ -2,13 +2,13 @@
 
 Bir kişinin 
     - Fotoğrafını, 
-    - Hakkında bilgiler, 
-    - Deneyimlerini, 
+    * Hakkında bilgiler, 
+    + Deneyimlerini, 
     - Eğitim hayatını, 
-    - Yeteneklerini,
-    - Hobilerini,
+    * Yeteneklerini,
+    + Hobilerini,
     - Sertifikalarını,
-    - Sosyal medya sayfalarınızı
+    * Sosyal medya sayfalarınızı
  Dinamik bir şekilde hazırlıyabileceği bir CV sitesi
  
  # **Yapabilecekleriniz**
